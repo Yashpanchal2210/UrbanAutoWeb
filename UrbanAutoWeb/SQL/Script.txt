@@ -1,0 +1,1 @@
+Scaffold-DbContext name=dbConn TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir D:\UrbanAuto\UrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb.Data\DataProvider -force -DataAnnotations

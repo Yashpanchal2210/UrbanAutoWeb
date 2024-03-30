@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UrbanAutoWeb", "UrbanAutoWeb\UrbanAutoWeb.csproj", "{1C7B0AB4-710C-49AC-AAF6-D1C945DF5F9E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F9D18655-3E62-4DA9-8094-83D39EEF1A69} = {F9D18655-3E62-4DA9-8094-83D39EEF1A69}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrbanAutoWeb.Data", "UrbanAutoWeb.Data\UrbanAutoWeb.Data.csproj", "{1741398D-B404-4639-AD5B-738F14092365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrbanAutoWeb.Service", "UrbanAutoWeb.Service\UrbanAutoWeb.Service.csproj", "{F9D18655-3E62-4DA9-8094-83D39EEF1A69}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1741398D-B404-4639-AD5B-738F14092365} = {1741398D-B404-4639-AD5B-738F14092365}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C7B0AB4-710C-49AC-AAF6-D1C945DF5F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7B0AB4-710C-49AC-AAF6-D1C945DF5F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7B0AB4-710C-49AC-AAF6-D1C945DF5F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7B0AB4-710C-49AC-AAF6-D1C945DF5F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1741398D-B404-4639-AD5B-738F14092365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1741398D-B404-4639-AD5B-738F14092365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1741398D-B404-4639-AD5B-738F14092365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1741398D-B404-4639-AD5B-738F14092365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D18655-3E62-4DA9-8094-83D39EEF1A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D18655-3E62-4DA9-8094-83D39EEF1A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D18655-3E62-4DA9-8094-83D39EEF1A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D18655-3E62-4DA9-8094-83D39EEF1A69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CAEC3C2-BF83-4542-884E-F1164260F9A9}
+	EndGlobalSection
+EndGlobal
