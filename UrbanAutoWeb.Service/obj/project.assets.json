@@ -4769,11 +4769,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UrbanAuto\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.Service\\UrbanAutoWeb.Service.csproj",
+      "projectUniqueName": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.Service\\UrbanAutoWeb.Service.csproj",
       "projectName": "UrbanAutoWeb.Service",
-      "projectPath": "D:\\UrbanAuto\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.Service\\UrbanAutoWeb.Service.csproj",
+      "projectPath": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.Service\\UrbanAutoWeb.Service.csproj",
       "packagesPath": "C:\\Users\\panch\\.nuget\\packages\\",
-      "outputPath": "D:\\UrbanAuto\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.Service\\obj\\",
+      "outputPath": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

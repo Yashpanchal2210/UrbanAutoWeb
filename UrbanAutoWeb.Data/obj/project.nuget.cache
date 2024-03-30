@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bqtmqM7ODKHAOpX0A3xa/clc5HM2R2K7f1u1QfAB6C1W+A8YnypiBYUzm1JejpKKaOCvquCLwK3A6WqUAtaxyg==",
+  "dgSpecHash": "bRfVwnhTTcMo+PAg6fvMv6javm2JDAhdPzp6pMjo6yp8ZAGNQj5daMRst2mSqimnLokr1wuR7IW1YQyUexwdeA==",
   "success": true,
-  "projectFilePath": "D:\\UrbanAuto\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.Data\\UrbanAutoWeb.Data.csproj",
+  "projectFilePath": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.Data\\UrbanAutoWeb.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\panch\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\panch\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

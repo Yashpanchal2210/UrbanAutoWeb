@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UrbanAuto\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.csproj": {}
+    "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.csproj": {}
   },
   "projects": {
-    "D:\\UrbanAuto\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.csproj": {
+    "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UrbanAuto\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.csproj",
+        "projectUniqueName": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.csproj",
         "projectName": "UrbanAutoWeb",
-        "projectPath": "D:\\UrbanAuto\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.csproj",
+        "projectPath": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.csproj",
         "packagesPath": "C:\\Users\\panch\\.nuget\\packages\\",
-        "outputPath": "D:\\UrbanAuto\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\obj\\",
+        "outputPath": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
