@@ -26,10 +26,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Areas/Admin/Views/Auth/adminLogin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXV0aFxhZG1pbkxvZ2luLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Views/Authentication/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

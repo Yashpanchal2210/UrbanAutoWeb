@@ -257,6 +257,10 @@
       "PackagePath": "staticwebassets\\assets\\fonts\\tinymce-mobile.woff"
     },
     {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\Background.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Background.png"
+    },
+    {
       "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\jsTree\\32px-dark.png",
       "PackagePath": "staticwebassets\\assets\\images\\jsTree\\32px-dark.png"
     },
@@ -2029,6 +2033,10 @@
       "PackagePath": "staticwebassets\\js\\charts\\chart-widgets.js"
     },
     {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\custom\\Login.js",
+      "PackagePath": "staticwebassets\\js\\custom\\Login.js"
+    },
+    {
       "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\editors.js",
       "PackagePath": "staticwebassets\\js\\editors.js"
     },
@@ -2059,6 +2067,10 @@
     {
       "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\example-tree.js",
       "PackagePath": "staticwebassets\\js\\example-tree.js"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\jQuery.min.js",
+      "PackagePath": "staticwebassets\\js\\jQuery.min.js"
     },
     {
       "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\datatable-btns.js",

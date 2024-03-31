@@ -15,6 +15,8 @@ public partial class UrbanAutoMasterContext : DbContext
     {
     }
 
+    public virtual DbSet<Admin> Admins { get; set; }
+
     public virtual DbSet<Client> Clients { get; set; }
 
     public virtual DbSet<SubscriptionPlan> SubscriptionPlans { get; set; }
@@ -29,6 +31,13 @@ public partial class UrbanAutoMasterContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.Entity<Admin>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__Admin__3214EC07D728D96E");
+
+            entity.Property(e => e.Id).ValueGeneratedNever();
+        });
+
         modelBuilder.Entity<Client>(entity =>
         {
             entity.HasKey(e => e.ClientId).HasName("PK__Clients__E67E1A04FE786A5C");

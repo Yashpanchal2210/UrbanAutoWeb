@@ -554,3 +554,9 @@ D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb\bin\Debug\net8.0\runtimes\win\lib\n
 D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb\bin\Debug\net8.0\AutoMapper.dll
+D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb\bin\Debug\net8.0\UrbanAutoWeb.Data.dll
+D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb\bin\Debug\net8.0\UrbanAutoWeb.Service.dll
+D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb\bin\Debug\net8.0\UrbanAutoWeb.Service.pdb
+D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb\bin\Debug\net8.0\UrbanAutoWeb.Data.pdb

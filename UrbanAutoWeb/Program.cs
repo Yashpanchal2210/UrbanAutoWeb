@@ -1,4 +1,6 @@
+using AutoMapper;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection.Extensions;
 using UrbanAutoWeb;
 using UrbanAutoWeb.Infrastructure;
 
@@ -6,6 +8,21 @@ var builder = WebApplication.CreateBuilder(args);
 
 var connetionString = builder.Configuration.GetConnectionString("dbConn");
 builder.Services.AddDbContext<UrbanAutoMasterContext>(options => options.UseSqlServer(connetionString));
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddAutoMapper(typeof(Program));
+builder.Services.AddScoped<IMapper, Mapper>();
+builder.Services.TryAddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddControllersWithViews().AddCookieTempDataProvider();
+
+
+
+builder.Services.AddSession(options =>
+{
+    //options.IdleTimeout = TimeSpan.FromMinutes(30);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -21,7 +38,6 @@ SessionFactory.Configure(app.Services.GetRequiredService<IHttpContextAccessor>()
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
@@ -29,12 +45,17 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
-app.UseAuthorization();
+app.UseSession();
 app.UseAuthentication();
+app.UseAuthorization();
 
 app.MapControllerRoute(
-    name: "adminlogin",
-    pattern: "{controller=Auth}/{action=Login}/{id?}");
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+//app.MapAreaControllerRoute(
+//    name: "AdminLogin",
+//    areaName: "Admin",
+//    pattern: "Admin/{controller=Auth}/{action=AdminLogin}");
 
 app.Run();

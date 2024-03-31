@@ -6,14 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Login | Urban Auto</title>
     <!-- Fav Icon  -->
-    <link rel="shortcut icon" href="~/images/favicon.png" />
+    <link rel="shortcut icon" href="~/images/Icon.png">
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
 
     <!-- StyleSheets  -->
     <link rel="stylesheet" href="~/assets/css/dashlite.css">
     <link id="skin-default" rel="stylesheet" href="~/assets/css/theme.css">
+
 </head>
 
-<body>
+<body class="nk-body bg-white npc-landing ">
     <!-- Page content -->
     <div class="page-content">
         <!-- Main content -->
@@ -23,5 +26,14 @@
         <!-- /main content -->
     </div>
     <!-- /page content -->
+    @RenderSection("scripts", false)
+    <script src="~/js/bundle.js"></script>
+    <script src="~/js/scripts.js"></script>
+    <script src="~/js/jQuery.min.js"></script>
+
+    <script src="~/assets/js/bundle.js"></script>
+    <script src="~/assets/js/scripts.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
 </body>
 </html>

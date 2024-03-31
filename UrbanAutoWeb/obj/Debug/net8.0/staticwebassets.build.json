@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mQq0hAkmbZBCYkJTUOEMXVzU9GKUfL4wkB1Pryg5tKk=",
+  "Hash": "1IGG+aEHRhfzgDv1ZAOt8EU1epT1JTr6YUgTJEqtH0c=",
   "Source": "UrbanAutoWeb",
   "BasePath": "_content/UrbanAutoWeb",
   "Mode": "Default",
@@ -1250,6 +1250,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\tinymce-mobile.woff"
+    },
+    {
+      "Identity": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\Background.png",
+      "SourceId": "UrbanAutoWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\",
+      "BasePath": "_content/UrbanAutoWeb",
+      "RelativePath": "assets/images/Background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\Background.png"
     },
     {
       "Identity": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\jsTree\\32px.png",
@@ -9669,6 +9688,25 @@
       "OriginalItemSpec": "wwwroot\\js\\charts\\chart-widgets.js"
     },
     {
+      "Identity": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\custom\\Login.js",
+      "SourceId": "UrbanAutoWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\",
+      "BasePath": "_content/UrbanAutoWeb",
+      "RelativePath": "js/custom/Login.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\custom\\Login.js"
+    },
+    {
       "Identity": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\editors.js",
       "SourceId": "UrbanAutoWeb",
       "SourceType": "Discovered",
@@ -9819,6 +9857,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\example-tree.js"
+    },
+    {
+      "Identity": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\jQuery.min.js",
+      "SourceId": "UrbanAutoWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\",
+      "BasePath": "_content/UrbanAutoWeb",
+      "RelativePath": "js/jQuery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jQuery.min.js"
     },
     {
       "Identity": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\datatable-btns.js",

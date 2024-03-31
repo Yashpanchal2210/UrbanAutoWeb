@@ -53,3 +53,6 @@ D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb.Service\obj\Debug\net8.0\refint\Urb
 D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb.Service\obj\Debug\net8.0\UrbanAutoWeb.Service.pdb
 D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb.Service\obj\Debug\net8.0\UrbanAutoWeb.Service.genruntimeconfig.cache
 D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb.Service\obj\Debug\net8.0\ref\UrbanAutoWeb.Service.dll
+D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb.Service\bin\Debug\net8.0\UrbanAutoWeb.Data.dll
+D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb.Service\bin\Debug\net8.0\UrbanAutoWeb.Data.pdb
+D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb.Service\obj\Debug\net8.0\UrbanAut.A8563DB8.Up2Date
