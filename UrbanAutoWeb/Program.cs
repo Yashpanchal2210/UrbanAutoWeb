@@ -1,9 +1,21 @@
+using Microsoft.EntityFrameworkCore;
+using UrbanAutoWeb;
+using UrbanAutoWeb.Infrastructure;
+
 var builder = WebApplication.CreateBuilder(args);
+
+var connetionString = builder.Configuration.GetConnectionString("dbConn");
+builder.Services.AddDbContext<UrbanAutoMasterContext>(options => options.UseSqlServer(connetionString));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
+//For session factory start
+builder.Services.AddHttpContextAccessor();
+SessionFactory.Configure(app.Services.GetRequiredService<IHttpContextAccessor>());
+//For session factory end
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -19,9 +31,10 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+app.UseAuthentication();
 
 app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    name: "adminlogin",
+    pattern: "{controller=Auth}/{action=Login}/{id?}");
 
 app.Run();
