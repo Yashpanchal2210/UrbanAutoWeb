@@ -7,28 +7,60 @@
     body {
         margin: 0;
         padding: 0;
-        background-image: url('./assets/images/Background.png');
-        background-size: contain;
-        background-position: center;
         height: 100vh;
         display: flex;
         justify-content: center;
         align-items: center;
-        background-repeat: no-repeat;
+        background-image: url('./assets/images/Background.png');
+        background-size: cover;
+        background-position: center;
     }
 
-    #button {
+    .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5); /* Adjust opacity here */
+    }
+
+    .content {
+        position: relative;
+        z-index: 1;
+        text-align: center;
+        color: white;
+    }
+
+    .button-container {
+        margin-top: 20px;
+    }
+
+    .button-container a {
+        display: inline-block;
         padding: 10px 20px;
-        margin: 10px;
         font-size: 16px;
         cursor: pointer;
         border: none;
-        background-color: #007bff;
+        background-color: #563d7c;
         color: white;
         border-radius: 5px;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    @@media (max-width: 768px) {
+        body {
+            background-size: contain;
+        }
     }
 </style>
 
+<div class="overlay"></div>
 
-<a href="/Authentication/Login" class="btn btn-primary" id="button">Continue as Client</a>
-<a href="/Admin/Auth/Login" class="btn btn-primary" id="button">Continue as Admin</a>
+<div class="content">
+    <div class="button-container">
+        <a href="/Authentication/Login">Continue as Client</a>
+        <a href="/Admin/Auth/Login">Continue as Admin</a>
+    </div>
+</div>

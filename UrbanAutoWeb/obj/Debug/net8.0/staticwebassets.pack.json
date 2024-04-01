@@ -261,6 +261,14 @@
       "PackagePath": "staticwebassets\\assets\\images\\Background.png"
     },
     {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\Background1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Background1.png"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\Background2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Background2.png"
+    },
+    {
       "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\jsTree\\32px-dark.png",
       "PackagePath": "staticwebassets\\assets\\images\\jsTree\\32px-dark.png"
     },
