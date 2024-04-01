@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UrbanAutoWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d36bc844bb9a6b4c38d4f8eb7fafaa2fc2f64c3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("UrbanAutoWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UrbanAutoWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
