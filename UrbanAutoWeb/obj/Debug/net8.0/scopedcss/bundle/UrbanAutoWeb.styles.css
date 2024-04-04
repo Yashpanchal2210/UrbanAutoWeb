@@ -1,3 +1,52 @@
+/* _content/UrbanAutoWeb/Areas/Admin/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-svz4kifj7v] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-svz4kifj7v] {
+  color: #0077cc;
+}
+
+.btn-primary[b-svz4kifj7v] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-svz4kifj7v], .nav-pills .show > .nav-link[b-svz4kifj7v] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-svz4kifj7v] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-svz4kifj7v] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-svz4kifj7v] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-svz4kifj7v] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-svz4kifj7v] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
 /* _content/UrbanAutoWeb/Views/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */

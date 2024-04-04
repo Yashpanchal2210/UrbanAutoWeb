@@ -819,3 +819,4 @@ E:\NIK\UrbanAutoWeb\UrbanAutoWeb\obj\Debug\net8.0\refint\UrbanAutoWeb.dll
 E:\NIK\UrbanAutoWeb\UrbanAutoWeb\obj\Debug\net8.0\UrbanAutoWeb.pdb
 E:\NIK\UrbanAutoWeb\UrbanAutoWeb\obj\Debug\net8.0\UrbanAutoWeb.genruntimeconfig.cache
 E:\NIK\UrbanAutoWeb\UrbanAutoWeb\obj\Debug\net8.0\ref\UrbanAutoWeb.dll
+E:\NIK\UrbanAutoWeb\UrbanAutoWeb\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
