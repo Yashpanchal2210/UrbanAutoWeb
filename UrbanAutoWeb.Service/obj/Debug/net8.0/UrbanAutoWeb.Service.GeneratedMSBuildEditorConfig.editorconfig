@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UrbanAutoWeb.Service
-build_property.ProjectDir = E:\NIK\UrbanAutoWeb\UrbanAutoWeb.Service\
+build_property.ProjectDir = D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb.Service\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -8828,19 +8828,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yashi\\.nuget\\packages\\": {}
+    "C:\\Users\\panch\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.csproj",
+      "projectUniqueName": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.csproj",
       "projectName": "UrbanAutoWeb",
-      "projectPath": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.csproj",
-      "packagesPath": "C:\\Users\\yashi\\.nuget\\packages\\",
-      "outputPath": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\obj\\",
+      "projectPath": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.csproj",
+      "packagesPath": "C:\\Users\\panch\\.nuget\\packages\\",
+      "outputPath": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\yashi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\panch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8854,8 +8859,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb.Service\\UrbanAutoWeb.Service.csproj": {
-              "projectPath": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb.Service\\UrbanAutoWeb.Service.csproj"
+            "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.Service\\UrbanAutoWeb.Service.csproj": {
+              "projectPath": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb.Service\\UrbanAutoWeb.Service.csproj"
             }
           }
         }
@@ -8864,6 +8869,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8926,7 +8936,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

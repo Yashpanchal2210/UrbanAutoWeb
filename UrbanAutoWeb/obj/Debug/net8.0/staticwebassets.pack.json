@@ -1,2479 +1,2743 @@
 {
   "Files": [
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UrbanAutoWeb.bundle.scp.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UrbanAutoWeb.bundle.scp.css",
       "PackagePath": "staticwebassets\\UrbanAutoWeb.bundle.scp.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\dashlite.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\css\\dashlite.css",
+      "PackagePath": "staticwebassets\\WebPage\\css\\dashlite.css"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\css\\dashlite.min.css",
+      "PackagePath": "staticwebassets\\WebPage\\css\\dashlite.min.css"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\css\\theme.css",
+      "PackagePath": "staticwebassets\\WebPage\\css\\theme.css"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Nioicon.eot",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Nioicon.eot"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Nioicon.svg",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Nioicon.svg"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Nioicon.ttf",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Nioicon.ttf"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Nioicon.woff",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Nioicon.woff"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Nunito-Bold.eot",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Nunito-Bold.eot"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Nunito-Bold.ttf",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Nunito-Bold.ttf"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Nunito-Bold.woff",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Nunito-Bold.woff"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Nunito-Bold.woff2",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Nunito-Bold.woff2"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Nunito-Regular.eot",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Nunito-Regular.eot"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Nunito-Regular.ttf",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Nunito-Regular.ttf"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Nunito-Regular.woff",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Nunito-Regular.woff"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Nunito-Regular.woff2",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Nunito-Regular.woff2"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Roboto-Light.eot"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Roboto-Light.woff"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\summernote.eot",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\summernote.eot"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\summernote.ttf",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\summernote.ttf"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\summernote.woff",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\summernote.woff"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\summernote.woff2",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\summernote.woff2"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\fonts\\tinymce-mobile.woff",
+      "PackagePath": "staticwebassets\\WebPage\\fonts\\tinymce-mobile.woff"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\images\\shape\\mask-a.svg",
+      "PackagePath": "staticwebassets\\WebPage\\images\\shape\\mask-a.svg"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\images\\shape\\mask-b.svg",
+      "PackagePath": "staticwebassets\\WebPage\\images\\shape\\mask-b.svg"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\images\\shape\\shape-a.png",
+      "PackagePath": "staticwebassets\\WebPage\\images\\shape\\shape-a.png"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\images\\shape\\shape-b.png",
+      "PackagePath": "staticwebassets\\WebPage\\images\\shape\\shape-b.png"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\js\\bundle.js",
+      "PackagePath": "staticwebassets\\WebPage\\js\\bundle.js"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\WebPage\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\WebPage\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\dashlite.css",
       "PackagePath": "staticwebassets\\assets\\css\\dashlite.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\dashlite.min.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\dashlite.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\dashlite.min.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\dashlite.rtl.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\dashlite.rtl.css",
       "PackagePath": "staticwebassets\\assets\\css\\dashlite.rtl.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\dashlite.rtl.min.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\dashlite.rtl.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\dashlite.rtl.min.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\editors\\quill.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\editors\\quill.css",
       "PackagePath": "staticwebassets\\assets\\css\\editors\\quill.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\editors\\quill.rtl.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\editors\\quill.rtl.css",
       "PackagePath": "staticwebassets\\assets\\css\\editors\\quill.rtl.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\editors\\summernote.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\editors\\summernote.css",
       "PackagePath": "staticwebassets\\assets\\css\\editors\\summernote.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\editors\\summernote.rtl.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\editors\\summernote.rtl.css",
       "PackagePath": "staticwebassets\\assets\\css\\editors\\summernote.rtl.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\editors\\tinymce.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\editors\\tinymce.css",
       "PackagePath": "staticwebassets\\assets\\css\\editors\\tinymce.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\editors\\tinymce.rtl.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\editors\\tinymce.rtl.css",
       "PackagePath": "staticwebassets\\assets\\css\\editors\\tinymce.rtl.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\libs\\bootstrap-icons.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\libs\\bootstrap-icons.css",
       "PackagePath": "staticwebassets\\assets\\css\\libs\\bootstrap-icons.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\libs\\fontawesome-icons.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\libs\\fontawesome-icons.css",
       "PackagePath": "staticwebassets\\assets\\css\\libs\\fontawesome-icons.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\libs\\jstree.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\libs\\jstree.css",
       "PackagePath": "staticwebassets\\assets\\css\\libs\\jstree.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\libs\\themify-icons.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\libs\\themify-icons.css",
       "PackagePath": "staticwebassets\\assets\\css\\libs\\themify-icons.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\skins\\theme-blue.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\skins\\theme-blue.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\theme-blue.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\skins\\theme-bluelite.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\skins\\theme-bluelite.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\theme-bluelite.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\skins\\theme-egyptian.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\skins\\theme-egyptian.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\theme-egyptian.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\skins\\theme-green.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\skins\\theme-green.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\theme-green.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\skins\\theme-red.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\skins\\theme-red.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\theme-red.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\style-email.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\style-email.css",
       "PackagePath": "staticwebassets\\assets\\css\\style-email.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\theme.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\css\\theme.css",
       "PackagePath": "staticwebassets\\assets\\css\\theme.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Bold.eot",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Bold.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Bold.eot"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Bold.ttf",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Bold.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Bold.ttf"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Bold.woff",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Bold.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Bold.woff"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Bold.woff2",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Bold.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Bold.woff2"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Medium.eot",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Medium.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Medium.eot"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Medium.ttf",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Medium.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Medium.ttf"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Medium.woff",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Medium.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Medium.woff"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Medium.woff2",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Medium.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Medium.woff2"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Regular.eot",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Regular.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Regular.eot"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Regular.ttf",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Regular.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Regular.ttf"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Regular.woff",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Regular.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Regular.woff"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Regular.woff2",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\DMSans-Regular.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\DMSans-Regular.woff2"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\Nioicon.eot",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\Nioicon.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\Nioicon.eot"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\Nioicon.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\Nioicon.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\Nioicon.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\Nioicon.ttf",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\Nioicon.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Nioicon.ttf"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\Nioicon.woff",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\Nioicon.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\Nioicon.woff"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\summernote.eot",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\summernote.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\summernote.eot"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\summernote.ttf",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\summernote.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\summernote.ttf"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\summernote.woff",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\summernote.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\summernote.woff"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\summernote.woff2",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\summernote.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\summernote.woff2"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\themify.eot",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\themify.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\themify.eot"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\themify.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\themify.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\themify.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\themify.ttf",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\themify.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\themify.ttf"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\themify.woff",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\themify.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\themify.woff"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\tinymce-mobile.woff",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\fonts\\tinymce-mobile.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\tinymce-mobile.woff"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\Background.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\Background.png",
       "PackagePath": "staticwebassets\\assets\\images\\Background.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\Background1.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\Background1.png",
       "PackagePath": "staticwebassets\\assets\\images\\Background1.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\Background2.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\Background2.png",
       "PackagePath": "staticwebassets\\assets\\images\\Background2.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\jsTree\\32px-dark.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\jsTree\\32px-dark.png",
       "PackagePath": "staticwebassets\\assets\\images\\jsTree\\32px-dark.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\jsTree\\32px.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\jsTree\\32px.png",
       "PackagePath": "staticwebassets\\assets\\images\\jsTree\\32px.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\jsTree\\40px-dark.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\jsTree\\40px-dark.png",
       "PackagePath": "staticwebassets\\assets\\images\\jsTree\\40px-dark.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\jsTree\\40px.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\jsTree\\40px.png",
       "PackagePath": "staticwebassets\\assets\\images\\jsTree\\40px.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\jsTree\\throbber-dark.gif",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\jsTree\\throbber-dark.gif",
       "PackagePath": "staticwebassets\\assets\\images\\jsTree\\throbber-dark.gif"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\jsTree\\throbber.gif",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\images\\jsTree\\throbber.gif",
       "PackagePath": "staticwebassets\\assets\\images\\jsTree\\throbber.gif"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\apps\\calendar.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\apps\\calendar.js",
       "PackagePath": "staticwebassets\\assets\\js\\apps\\calendar.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\apps\\chats.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\apps\\chats.js",
       "PackagePath": "staticwebassets\\assets\\js\\apps\\chats.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\apps\\file-manager.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\apps\\file-manager.js",
       "PackagePath": "staticwebassets\\assets\\js\\apps\\file-manager.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\apps\\inbox.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\apps\\inbox.js",
       "PackagePath": "staticwebassets\\assets\\js\\apps\\inbox.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\apps\\kanban.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\apps\\kanban.js",
       "PackagePath": "staticwebassets\\assets\\js\\apps\\kanban.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\apps\\messages.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\apps\\messages.js",
       "PackagePath": "staticwebassets\\assets\\js\\apps\\messages.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\bundle.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\bundle.js",
       "PackagePath": "staticwebassets\\assets\\js\\bundle.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\charts\\chart-analytics.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\charts\\chart-analytics.js",
       "PackagePath": "staticwebassets\\assets\\js\\charts\\chart-analytics.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\charts\\chart-ecommerce.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\charts\\chart-ecommerce.js",
       "PackagePath": "staticwebassets\\assets\\js\\charts\\chart-ecommerce.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\charts\\chart-lms.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\charts\\chart-lms.js",
       "PackagePath": "staticwebassets\\assets\\js\\charts\\chart-lms.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\charts\\chart-sales.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\charts\\chart-sales.js",
       "PackagePath": "staticwebassets\\assets\\js\\charts\\chart-sales.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\charts\\chart-widgets.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\charts\\chart-widgets.js",
       "PackagePath": "staticwebassets\\assets\\js\\charts\\chart-widgets.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\editors.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\editors.js",
       "PackagePath": "staticwebassets\\assets\\js\\editors.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\example-chart.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\example-chart.js",
       "PackagePath": "staticwebassets\\assets\\js\\example-chart.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\example-dragula.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\example-dragula.js",
       "PackagePath": "staticwebassets\\assets\\js\\example-dragula.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\example-listbox.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\example-listbox.js",
       "PackagePath": "staticwebassets\\assets\\js\\example-listbox.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\example-map.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\example-map.js",
       "PackagePath": "staticwebassets\\assets\\js\\example-map.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\example-sweetalert.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\example-sweetalert.js",
       "PackagePath": "staticwebassets\\assets\\js\\example-sweetalert.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\example-toastr.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\example-toastr.js",
       "PackagePath": "staticwebassets\\assets\\js\\example-toastr.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\example-tree.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\example-tree.js",
       "PackagePath": "staticwebassets\\assets\\js\\example-tree.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\datatable-btns.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\datatable-btns.js",
       "PackagePath": "staticwebassets\\assets\\js\\libs\\datatable-btns.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\dragula.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\dragula.js",
       "PackagePath": "staticwebassets\\assets\\js\\libs\\dragula.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\dual-listbox.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\dual-listbox.js",
       "PackagePath": "staticwebassets\\assets\\js\\libs\\dual-listbox.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\editors\\quill.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\editors\\quill.js",
       "PackagePath": "staticwebassets\\assets\\js\\libs\\editors\\quill.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\editors\\skins\\content\\default\\content.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\editors\\skins\\content\\default\\content.css",
       "PackagePath": "staticwebassets\\assets\\js\\libs\\editors\\skins\\content\\default\\content.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\editors\\summernote.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\editors\\summernote.js",
       "PackagePath": "staticwebassets\\assets\\js\\libs\\editors\\summernote.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\editors\\tinymce.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\editors\\tinymce.js",
       "PackagePath": "staticwebassets\\assets\\js\\libs\\editors\\tinymce.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\fullcalendar.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\fullcalendar.js",
       "PackagePath": "staticwebassets\\assets\\js\\libs\\fullcalendar.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\jkanban.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\jkanban.js",
       "PackagePath": "staticwebassets\\assets\\js\\libs\\jkanban.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\jqvmap.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\jqvmap.js",
       "PackagePath": "staticwebassets\\assets\\js\\libs\\jqvmap.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\jstree.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\jstree.js",
       "PackagePath": "staticwebassets\\assets\\js\\libs\\jstree.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\tagify.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\libs\\tagify.js",
       "PackagePath": "staticwebassets\\assets\\js\\libs\\tagify.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\scripts.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\assets\\js\\scripts.js",
       "PackagePath": "staticwebassets\\assets\\js\\scripts.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\_dashlite_variables.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\_dashlite_variables.scss",
       "PackagePath": "staticwebassets\\css\\_dashlite_variables.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\apps\\_asterisk.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\apps\\_asterisk.scss",
       "PackagePath": "staticwebassets\\css\\apps\\_asterisk.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\apps\\_attach.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\apps\\_attach.scss",
       "PackagePath": "staticwebassets\\css\\apps\\_attach.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\apps\\_chats.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\apps\\_chats.scss",
       "PackagePath": "staticwebassets\\css\\apps\\_chats.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\apps\\_file-manager.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\apps\\_file-manager.scss",
       "PackagePath": "staticwebassets\\css\\apps\\_file-manager.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\apps\\_inbox.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\apps\\_inbox.scss",
       "PackagePath": "staticwebassets\\css\\apps\\_inbox.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\apps\\_messages.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\apps\\_messages.scss",
       "PackagePath": "staticwebassets\\css\\apps\\_messages.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\apps\\_reply-comment.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\apps\\_reply-comment.scss",
       "PackagePath": "staticwebassets\\css\\apps\\_reply-comment.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_components.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_components.scss",
       "PackagePath": "staticwebassets\\css\\core\\_components.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_dark-skin.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_dark-skin.scss",
       "PackagePath": "staticwebassets\\css\\core\\_dark-skin.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_layouts.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_layouts.scss",
       "PackagePath": "staticwebassets\\css\\core\\_layouts.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_misc.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_misc.scss",
       "PackagePath": "staticwebassets\\css\\core\\_misc.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_mode-override.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_mode-override.scss",
       "PackagePath": "staticwebassets\\css\\core\\_mode-override.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_pages.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_pages.scss",
       "PackagePath": "staticwebassets\\css\\core\\_pages.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_preview.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_preview.scss",
       "PackagePath": "staticwebassets\\css\\core\\_preview.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_style.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_style.scss",
       "PackagePath": "staticwebassets\\css\\core\\_style.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_utilites.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\_utilites.scss",
       "PackagePath": "staticwebassets\\css\\core\\_utilites.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_accordions.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_accordions.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_accordions.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_alert.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_alert.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_alert.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_badge.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_badge.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_badge.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_block.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_block.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_block.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_card.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_card.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_card.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_data-list.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_data-list.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_data-list.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_dropdown.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_dropdown.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_dropdown.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_feature.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_feature.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_feature.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_forms.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_forms.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_forms.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_icons.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_icons.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_icons.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_link.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_link.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_link.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_list.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_list.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_list.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_misc.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_misc.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_misc.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_modal.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_modal.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_modal.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_nav.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_nav.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_nav.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_projects.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_projects.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_projects.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_rating.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_rating.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_rating.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_search.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_search.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_search.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_sliders.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_sliders.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_sliders.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_table.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_table.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_table.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_team.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_team.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_team.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_text.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_text.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_text.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_title.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_title.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_title.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_toggle.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_toggle.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_toggle.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_users.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_users.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_users.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_wgm.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\components\\_wgm.scss",
       "PackagePath": "staticwebassets\\css\\core\\components\\_wgm.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\fonts\\_dmsans.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\fonts\\_dmsans.scss",
       "PackagePath": "staticwebassets\\css\\core\\fonts\\_dmsans.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\layouts\\_base.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\layouts\\_base.scss",
       "PackagePath": "staticwebassets\\css\\core\\layouts\\_base.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\layouts\\_footer.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\layouts\\_footer.scss",
       "PackagePath": "staticwebassets\\css\\core\\layouts\\_footer.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\layouts\\_header.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\layouts\\_header.scss",
       "PackagePath": "staticwebassets\\css\\core\\layouts\\_header.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\layouts\\_menu-main.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\layouts\\_menu-main.scss",
       "PackagePath": "staticwebassets\\css\\core\\layouts\\_menu-main.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\layouts\\_sidebar.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\layouts\\_sidebar.scss",
       "PackagePath": "staticwebassets\\css\\core\\layouts\\_sidebar.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\layouts\\_split.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\layouts\\_split.scss",
       "PackagePath": "staticwebassets\\css\\core\\layouts\\_split.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\pages\\auths\\base.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\pages\\auths\\base.scss",
       "PackagePath": "staticwebassets\\css\\core\\pages\\auths\\base.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\pages\\errors\\base.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\pages\\errors\\base.scss",
       "PackagePath": "staticwebassets\\css\\core\\pages\\errors\\base.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\pages\\misc.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\pages\\misc.scss",
       "PackagePath": "staticwebassets\\css\\core\\pages\\misc.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\utilites\\_noclass.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\utilites\\_noclass.scss",
       "PackagePath": "staticwebassets\\css\\core\\utilites\\_noclass.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\utilites\\_reboot.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\utilites\\_reboot.scss",
       "PackagePath": "staticwebassets\\css\\core\\utilites\\_reboot.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\utilites\\_sizing.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\utilites\\_sizing.scss",
       "PackagePath": "staticwebassets\\css\\core\\utilites\\_sizing.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\utilites\\_spacing.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\core\\utilites\\_spacing.scss",
       "PackagePath": "staticwebassets\\css\\core\\utilites\\_spacing.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\dashlite.rtl.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\dashlite.rtl.scss",
       "PackagePath": "staticwebassets\\css\\dashlite.rtl.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\dashlite.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\dashlite.scss",
       "PackagePath": "staticwebassets\\css\\dashlite.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\editors\\quill.rtl.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\editors\\quill.rtl.scss",
       "PackagePath": "staticwebassets\\css\\editors\\quill.rtl.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\editors\\quill.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\editors\\quill.scss",
       "PackagePath": "staticwebassets\\css\\editors\\quill.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\editors\\summernote.rtl.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\editors\\summernote.rtl.scss",
       "PackagePath": "staticwebassets\\css\\editors\\summernote.rtl.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\editors\\summernote.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\editors\\summernote.scss",
       "PackagePath": "staticwebassets\\css\\editors\\summernote.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\editors\\tinymce.rtl.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\editors\\tinymce.rtl.scss",
       "PackagePath": "staticwebassets\\css\\editors\\tinymce.rtl.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\editors\\tinymce.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\editors\\tinymce.scss",
       "PackagePath": "staticwebassets\\css\\editors\\tinymce.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_bootstrap.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_bootstrap.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_bootstrap.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_extend.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_extend.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_extend.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_alert.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_alert.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\_alert.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_breadcrumb.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\_breadcrumb.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_button-group.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_button-group.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\_button-group.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_card.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_card.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\_card.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_close.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_close.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\_close.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_custom-forms.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_custom-forms.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\_custom-forms.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_dropdown.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_dropdown.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\_dropdown.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_forms.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_forms.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\_forms.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_input-group.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_input-group.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\_input-group.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_list-group.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_list-group.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\_list-group.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_modal.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_modal.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\_modal.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_navbar.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_navbar.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\_navbar.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_pagination.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_pagination.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\_pagination.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_reboot.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_reboot.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\_reboot.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_type.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\_type.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\_type.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\utilities\\_borders.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\utilities\\_borders.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\utilities\\_borders.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\utilities\\_float.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\utilities\\_float.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\utilities\\_float.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\utilities\\_spacing.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\utilities\\_spacing.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\utilities\\_spacing.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\utilities\\_text.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_override_base\\utilities\\_text.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_override_base\\utilities\\_text.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_variables.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\_variables.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\_variables.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_alert.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_alert.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_alert.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_badge.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_badge.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_badge.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_breadcrumb.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_breadcrumb.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_button-group.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_button-group.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_button-group.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_buttons.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_buttons.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_buttons.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_card.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_card.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_card.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_custom-forms.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_custom-forms.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_custom-forms.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_dropdown.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_dropdown.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_dropdown.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_forms.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_forms.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_forms.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_grid.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_grid.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_grid.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_link.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_link.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_link.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_media.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_media.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_media.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_modal.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_modal.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_modal.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_nav.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_nav.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_nav.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_pagination.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_pagination.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_pagination.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_progress.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_progress.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_progress.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_tables.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_tables.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_tables.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_toast.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\components\\_toast.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\components\\_toast.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_background.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_background.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\utilites\\_background.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_borders.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_borders.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\utilites\\_borders.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_common.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_common.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\utilites\\_common.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_flex.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_flex.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\utilites\\_flex.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_position.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_position.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\utilites\\_position.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_reboot.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_reboot.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\utilites\\_reboot.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_sizing.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_sizing.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\utilites\\_sizing.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_spacing.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_spacing.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\utilites\\_spacing.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_text.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_text.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\utilites\\_text.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_type.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\extend\\bootstrap\\utilites\\_type.scss",
       "PackagePath": "staticwebassets\\css\\extend\\bootstrap\\utilites\\_type.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\_style.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\_style.scss",
       "PackagePath": "staticwebassets\\css\\global\\_style.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\comps\\_profiles.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\comps\\_profiles.scss",
       "PackagePath": "staticwebassets\\css\\global\\comps\\_profiles.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\comps\\_tb-compact.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\comps\\_tb-compact.scss",
       "PackagePath": "staticwebassets\\css\\global\\comps\\_tb-compact.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\comps\\_tb-odr.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\comps\\_tb-odr.scss",
       "PackagePath": "staticwebassets\\css\\global\\comps\\_tb-odr.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\comps\\_tb-tnx.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\comps\\_tb-tnx.scss",
       "PackagePath": "staticwebassets\\css\\global\\comps\\_tb-tnx.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\comps\\_wizard.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\comps\\_wizard.scss",
       "PackagePath": "staticwebassets\\css\\global\\comps\\_wizard.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\tables\\_base.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\tables\\_base.scss",
       "PackagePath": "staticwebassets\\css\\global\\tables\\_base.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_analytic.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_analytic.scss",
       "PackagePath": "staticwebassets\\css\\global\\wgs\\_analytic.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_db-invest.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_db-invest.scss",
       "PackagePath": "staticwebassets\\css\\global\\wgs\\_db-invest.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_ecommerce.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_ecommerce.scss",
       "PackagePath": "staticwebassets\\css\\global\\wgs\\_ecommerce.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_gallery.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_gallery.scss",
       "PackagePath": "staticwebassets\\css\\global\\wgs\\_gallery.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_invoice.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_invoice.scss",
       "PackagePath": "staticwebassets\\css\\global\\wgs\\_invoice.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_misc.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_misc.scss",
       "PackagePath": "staticwebassets\\css\\global\\wgs\\_misc.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_pricing.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_pricing.scss",
       "PackagePath": "staticwebassets\\css\\global\\wgs\\_pricing.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_products.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_products.scss",
       "PackagePath": "staticwebassets\\css\\global\\wgs\\_products.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_timeline.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\global\\wgs\\_timeline.scss",
       "PackagePath": "staticwebassets\\css\\global\\wgs\\_timeline.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\libs\\bootstrap-icons.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\libs\\bootstrap-icons.scss",
       "PackagePath": "staticwebassets\\css\\libs\\bootstrap-icons.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\libs\\fontawesome-icons.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\libs\\fontawesome-icons.scss",
       "PackagePath": "staticwebassets\\css\\libs\\fontawesome-icons.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\libs\\jstree.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\libs\\jstree.scss",
       "PackagePath": "staticwebassets\\css\\libs\\jstree.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\libs\\themify-icons.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\libs\\themify-icons.scss",
       "PackagePath": "staticwebassets\\css\\libs\\themify-icons.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\site.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\_variable_blue.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\_variable_blue.scss",
       "PackagePath": "staticwebassets\\css\\skins\\_variable_blue.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\_variable_bluelite.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\_variable_bluelite.scss",
       "PackagePath": "staticwebassets\\css\\skins\\_variable_bluelite.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\_variable_egyptian.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\_variable_egyptian.scss",
       "PackagePath": "staticwebassets\\css\\skins\\_variable_egyptian.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\_variable_green.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\_variable_green.scss",
       "PackagePath": "staticwebassets\\css\\skins\\_variable_green.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\_variable_red.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\_variable_red.scss",
       "PackagePath": "staticwebassets\\css\\skins\\_variable_red.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\theme-blue.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\theme-blue.scss",
       "PackagePath": "staticwebassets\\css\\skins\\theme-blue.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\theme-bluelite.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\theme-bluelite.scss",
       "PackagePath": "staticwebassets\\css\\skins\\theme-bluelite.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\theme-egyptian.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\theme-egyptian.scss",
       "PackagePath": "staticwebassets\\css\\skins\\theme-egyptian.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\theme-green.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\theme-green.scss",
       "PackagePath": "staticwebassets\\css\\skins\\theme-green.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\theme-red.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\skins\\theme-red.scss",
       "PackagePath": "staticwebassets\\css\\skins\\theme-red.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\style-email.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\style-email.scss",
       "PackagePath": "staticwebassets\\css\\style-email.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\theme.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\theme.scss",
       "PackagePath": "staticwebassets\\css\\theme.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\_dragula.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\_dragula.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\_dragula.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\_fullcalendar.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\_fullcalendar.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\_fullcalendar.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\_jkanban.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\_jkanban.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\_jkanban.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\_jqvmap.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\_jqvmap.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\_jqvmap.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\_map.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\_map.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\_map.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\_prettify.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\_prettify.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\_prettify.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\_simplebar.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\_simplebar.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\_simplebar.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\_tagify.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\_tagify.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\_tagify.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\bootstrap-icons\\_bootstrap-icons.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\bootstrap-icons\\_bootstrap-icons.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\bootstrap-icons\\_bootstrap-icons.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\bundle.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\bundle.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\bundle.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\datatable\\_buttons.bootstrap4.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\datatable\\_buttons.bootstrap4.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\datatable\\_buttons.bootstrap4.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\datatable\\_datatable.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\datatable\\_datatable.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\datatable\\_datatable.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\datepicker\\_bootstrap-datepicker.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\datepicker\\_bootstrap-datepicker.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\datepicker\\_bootstrap-datepicker.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\dropzone\\_dropzone.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\dropzone\\_dropzone.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\dropzone\\_dropzone.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\dual-listbox\\_dual-listbox.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\dual-listbox\\_dual-listbox.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\dual-listbox\\_dual-listbox.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_animated.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_animated.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\_animated.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_bordered-pulled.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_bordered-pulled.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\_bordered-pulled.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_core.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_core.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\_core.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_fixed-width.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_fixed-width.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\_fixed-width.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_icons.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_icons.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\_icons.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_larger.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_larger.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\_larger.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_list.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_list.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\_list.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_mixins.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_mixins.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\_mixins.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_rotated-flipped.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_rotated-flipped.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\_rotated-flipped.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_screen-reader.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_screen-reader.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\_screen-reader.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_shims.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_shims.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\_shims.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_stacked.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_stacked.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\_stacked.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_variables.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\_variables.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\_variables.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\brands.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\brands.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\brands.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\fontawesome.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\fontawesome.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\fontawesome.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\regular.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\regular.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\regular.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\solid.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\solid.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\solid.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\v4-shims.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\fontawesome\\v4-shims.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\fontawesome\\v4-shims.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\jsTree\\_style.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\jsTree\\_style.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\jsTree\\_style.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\magnific-popup\\_main.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\magnific-popup\\_main.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\magnific-popup\\_main.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\magnific-popup\\_settings.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\magnific-popup\\_settings.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\magnific-popup\\_settings.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\nioicon\\_variables.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\nioicon\\_variables.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\nioicon\\_variables.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\nioicon\\nioicon.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\nioicon\\nioicon.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\nioicon\\nioicon.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\nouislider\\_nouislider.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\nouislider\\_nouislider.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\nouislider\\_nouislider.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\quill\\_quill.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\quill\\_quill.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\quill\\_quill.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\select2\\_dropdown.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\select2\\_dropdown.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\select2\\_dropdown.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\select2\\_multiple.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\select2\\_multiple.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\select2\\_multiple.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\select2\\_single.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\select2\\_single.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\select2\\_single.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\select2\\core.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\select2\\core.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\select2\\core.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\select2\\mixins\\_gradients.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\select2\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\select2\\mixins\\_gradients.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\select2\\theme\\default\\_multiple.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\select2\\theme\\default\\_multiple.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\select2\\theme\\default\\_multiple.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\select2\\theme\\default\\_single.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\select2\\theme\\default\\_single.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\select2\\theme\\default\\_single.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\select2\\theme\\default\\layout.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\select2\\theme\\default\\layout.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\select2\\theme\\default\\layout.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\slick\\_slick.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\slick\\_slick.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\slick\\_slick.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\summernote\\_elements.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\summernote\\_elements.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\summernote\\_elements.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\summernote\\_summernote-bs4.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\summernote\\_summernote-bs4.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\summernote\\_summernote-bs4.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\summernote\\_summernote-common.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\summernote\\_summernote-common.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\summernote\\_summernote-common.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\summernote\\_summernote-icons.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\summernote\\_summernote-icons.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\summernote\\_summernote-icons.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\_sweetalert2.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\_sweetalert2.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\sweetalert2\\_sweetalert2.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_animations.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_animations.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\sweetalert2\\scss\\_animations.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_body.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_body.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\sweetalert2\\scss\\_body.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_core.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_core.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\sweetalert2\\scss\\_core.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_mixins.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\sweetalert2\\scss\\_mixins.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_polyfills.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_polyfills.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\sweetalert2\\scss\\_polyfills.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_theming.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_theming.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\sweetalert2\\scss\\_theming.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_toasts-animations.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_toasts-animations.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\sweetalert2\\scss\\_toasts-animations.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_toasts-body.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_toasts-body.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\sweetalert2\\scss\\_toasts-body.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_toasts.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\sweetalert2\\scss\\_toasts.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\variables.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\sweetalert2\\variables.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\sweetalert2\\variables.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\themify-icons\\_themify-icons.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\themify-icons\\_themify-icons.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\themify-icons\\_themify-icons.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\timepicker\\_jquery.timepicker.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\timepicker\\_jquery.timepicker.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\timepicker\\_jquery.timepicker.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\tinymce\\_content.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\tinymce\\_content.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\tinymce\\_content.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\tinymce\\ui\\_content.inline.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\tinymce\\ui\\_content.inline.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\tinymce\\ui\\_content.inline.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\tinymce\\ui\\_content.mobile.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\tinymce\\ui\\_content.mobile.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\tinymce\\ui\\_content.mobile.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\tinymce\\ui\\_content.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\tinymce\\ui\\_content.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\tinymce\\ui\\_content.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\tinymce\\ui\\_skin.mobile.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\tinymce\\ui\\_skin.mobile.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\tinymce\\ui\\_skin.mobile.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\tinymce\\ui\\_skin.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\tinymce\\ui\\_skin.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\tinymce\\ui\\_skin.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\toastr\\_toastr.scss",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\css\\vendors\\toastr\\_toastr.scss",
       "PackagePath": "staticwebassets\\css\\vendors\\toastr\\_toastr.scss"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\Icon.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\Icon.png",
       "PackagePath": "staticwebassets\\images\\Icon.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\Urban.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\Urban.png",
       "PackagePath": "staticwebassets\\images\\Urban.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\Urban2x.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\Urban2x.png",
       "PackagePath": "staticwebassets\\images\\Urban2x.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\avatar\\a-sm.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\Web-car-1.png",
+      "PackagePath": "staticwebassets\\images\\Web-car-1.png"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\Web-car-2.png",
+      "PackagePath": "staticwebassets\\images\\Web-car-2.png"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\Yash\\Profile.png",
+      "PackagePath": "staticwebassets\\images\\Yash\\Profile.png"
+    },
+    {
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\avatar\\a-sm.jpg",
       "PackagePath": "staticwebassets\\images\\avatar\\a-sm.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\avatar\\b-sm.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\avatar\\b-sm.jpg",
       "PackagePath": "staticwebassets\\images\\avatar\\b-sm.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\avatar\\c-sm.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\avatar\\c-sm.jpg",
       "PackagePath": "staticwebassets\\images\\avatar\\c-sm.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\avatar\\d-sm.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\avatar\\d-sm.jpg",
       "PackagePath": "staticwebassets\\images\\avatar\\d-sm.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\email\\kyc-pending.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\email\\kyc-pending.png",
       "PackagePath": "staticwebassets\\images\\email\\kyc-pending.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\email\\kyc-progress.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\email\\kyc-progress.png",
       "PackagePath": "staticwebassets\\images\\email\\kyc-progress.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\email\\kyc-success.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\email\\kyc-success.png",
       "PackagePath": "staticwebassets\\images\\email\\kyc-success.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\favicon.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\favicon.png",
       "PackagePath": "staticwebassets\\images\\favicon.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\arg.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\arg.png",
       "PackagePath": "staticwebassets\\images\\flags\\arg.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\aus.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\aus.png",
       "PackagePath": "staticwebassets\\images\\flags\\aus.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\bangladesh.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\bangladesh.png",
       "PackagePath": "staticwebassets\\images\\flags\\bangladesh.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\canada.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\canada.png",
       "PackagePath": "staticwebassets\\images\\flags\\canada.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\china-sq.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\china-sq.png",
       "PackagePath": "staticwebassets\\images\\flags\\china-sq.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\china.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\china.png",
       "PackagePath": "staticwebassets\\images\\flags\\china.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\english-sq.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\english-sq.png",
       "PackagePath": "staticwebassets\\images\\flags\\english-sq.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\english.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\english.png",
       "PackagePath": "staticwebassets\\images\\flags\\english.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\french-sq.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\french-sq.png",
       "PackagePath": "staticwebassets\\images\\flags\\french-sq.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\french.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\french.png",
       "PackagePath": "staticwebassets\\images\\flags\\french.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\germany-sq.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\germany-sq.png",
       "PackagePath": "staticwebassets\\images\\flags\\germany-sq.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\germany.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\germany.png",
       "PackagePath": "staticwebassets\\images\\flags\\germany.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\iran-sq.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\iran-sq.png",
       "PackagePath": "staticwebassets\\images\\flags\\iran-sq.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\iran.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\iran.png",
       "PackagePath": "staticwebassets\\images\\flags\\iran.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\italy-sq.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\italy-sq.png",
       "PackagePath": "staticwebassets\\images\\flags\\italy-sq.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\italy.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\italy.png",
       "PackagePath": "staticwebassets\\images\\flags\\italy.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\mexico.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\mexico.png",
       "PackagePath": "staticwebassets\\images\\flags\\mexico.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\philipine.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\philipine.png",
       "PackagePath": "staticwebassets\\images\\flags\\philipine.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\portugal.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\portugal.png",
       "PackagePath": "staticwebassets\\images\\flags\\portugal.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\s-africa.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\s-africa.png",
       "PackagePath": "staticwebassets\\images\\flags\\s-africa.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\spain-sq.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\spain-sq.png",
       "PackagePath": "staticwebassets\\images\\flags\\spain-sq.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\spain.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\spain.png",
       "PackagePath": "staticwebassets\\images\\flags\\spain.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\spanish-sq.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\spanish-sq.png",
       "PackagePath": "staticwebassets\\images\\flags\\spanish-sq.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\spanish.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\spanish.png",
       "PackagePath": "staticwebassets\\images\\flags\\spanish.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\switzerland-sq.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\switzerland-sq.png",
       "PackagePath": "staticwebassets\\images\\flags\\switzerland-sq.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\switzerland.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\switzerland.png",
       "PackagePath": "staticwebassets\\images\\flags\\switzerland.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\turkey-sq.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\turkey-sq.png",
       "PackagePath": "staticwebassets\\images\\flags\\turkey-sq.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\turkey.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\turkey.png",
       "PackagePath": "staticwebassets\\images\\flags\\turkey.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\uk-sq.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\uk-sq.png",
       "PackagePath": "staticwebassets\\images\\flags\\uk-sq.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\uk.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\flags\\uk.png",
       "PackagePath": "staticwebassets\\images\\flags\\uk.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\gfx\\error-404.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\gfx\\error-404.svg",
       "PackagePath": "staticwebassets\\images\\gfx\\error-404.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\gfx\\error-504.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\gfx\\error-504.svg",
       "PackagePath": "staticwebassets\\images\\gfx\\error-504.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\account-secure.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\account-secure.svg",
       "PackagePath": "staticwebassets\\images\\icons\\account-secure.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\bills.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\bills.svg",
       "PackagePath": "staticwebassets\\images\\icons\\bills.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\card-credit.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\card-credit.svg",
       "PackagePath": "staticwebassets\\images\\icons\\card-credit.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\card-debit.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\card-debit.svg",
       "PackagePath": "staticwebassets\\images\\icons\\card-debit.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\card-secure.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\card-secure.svg",
       "PackagePath": "staticwebassets\\images\\icons\\card-secure.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\code-scan.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\code-scan.svg",
       "PackagePath": "staticwebassets\\images\\icons\\code-scan.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\codes.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\codes.svg",
       "PackagePath": "staticwebassets\\images\\icons\\codes.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\connect-secure.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\connect-secure.svg",
       "PackagePath": "staticwebassets\\images\\icons\\connect-secure.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\customize.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\customize.svg",
       "PackagePath": "staticwebassets\\images\\icons\\customize.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\devices.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\devices.svg",
       "PackagePath": "staticwebassets\\images\\icons\\devices.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\doc-checked.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\doc-checked.svg",
       "PackagePath": "staticwebassets\\images\\icons\\doc-checked.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\emails.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\emails.svg",
       "PackagePath": "staticwebassets\\images\\icons\\emails.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\excel.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\excel.svg",
       "PackagePath": "staticwebassets\\images\\icons\\excel.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-doc.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-doc.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-doc.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-excel.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-excel.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-excel.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-media.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-media.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-media.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-pdf.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-pdf.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-pdf.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-code-alt.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-code-alt.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-code-alt.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-code.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-code.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-code.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-doc-alt.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-doc-alt.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-doc-alt.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-doc.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-doc.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-doc.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-media-alt.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-media-alt.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-media-alt.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-media.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-media.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-media.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-movie-alt.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-movie-alt.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-movie-alt.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-movie.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-movie.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-movie.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-music-alt.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-music-alt.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-music-alt.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-music.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-music.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-music.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-pdf-alt.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-pdf-alt.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-pdf-alt.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-pdf.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-pdf.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-pdf.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-ppt-alt.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-ppt-alt.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-ppt-alt.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-ppt.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-ppt.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-ppt.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-sheet-alt.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-sheet-alt.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-sheet-alt.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-sheet.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-sheet.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-sheet.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-text-alt.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-text-alt.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-text-alt.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-text.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-text.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-text.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-zip-alt.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-zip-alt.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-zip-alt.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-zip.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-type-zip.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-type-zip.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-word.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-word.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-word.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-zip.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\file-zip.svg",
       "PackagePath": "staticwebassets\\images\\icons\\file-zip.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\folder-alt.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\folder-alt.svg",
       "PackagePath": "staticwebassets\\images\\icons\\folder-alt.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\folder-secure-alt.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\folder-secure-alt.svg",
       "PackagePath": "staticwebassets\\images\\icons\\folder-secure-alt.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\folder-secure.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\folder-secure.svg",
       "PackagePath": "staticwebassets\\images\\icons\\folder-secure.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\folder-shared-alt.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\folder-shared-alt.svg",
       "PackagePath": "staticwebassets\\images\\icons\\folder-shared-alt.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\folder-shared.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\folder-shared.svg",
       "PackagePath": "staticwebassets\\images\\icons\\folder-shared.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\folder.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\folder.svg",
       "PackagePath": "staticwebassets\\images\\icons\\folder.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\help-desk.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\help-desk.svg",
       "PackagePath": "staticwebassets\\images\\icons\\help-desk.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\id-back.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\id-back.svg",
       "PackagePath": "staticwebassets\\images\\icons\\id-back.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\id-front.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\id-front.svg",
       "PackagePath": "staticwebassets\\images\\icons\\id-front.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\invoice.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\invoice.svg",
       "PackagePath": "staticwebassets\\images\\icons\\invoice.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\kyc-dv.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\kyc-dv.svg",
       "PackagePath": "staticwebassets\\images\\icons\\kyc-dv.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\kyc-nid.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\kyc-nid.svg",
       "PackagePath": "staticwebassets\\images\\icons\\kyc-nid.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\kyc-pp.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\kyc-pp.svg",
       "PackagePath": "staticwebassets\\images\\icons\\kyc-pp.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\loop.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\loop.svg",
       "PackagePath": "staticwebassets\\images\\icons\\loop.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\password-secure.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\password-secure.svg",
       "PackagePath": "staticwebassets\\images\\icons\\password-secure.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\plan-s1.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\plan-s1.svg",
       "PackagePath": "staticwebassets\\images\\icons\\plan-s1.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\plan-s2.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\plan-s2.svg",
       "PackagePath": "staticwebassets\\images\\icons\\plan-s2.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\plan-s3.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\plan-s3.svg",
       "PackagePath": "staticwebassets\\images\\icons\\plan-s3.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\product-cc.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\product-cc.svg",
       "PackagePath": "staticwebassets\\images\\icons\\product-cc.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\product-ee.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\product-ee.svg",
       "PackagePath": "staticwebassets\\images\\icons\\product-ee.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\product-ig.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\product-ig.svg",
       "PackagePath": "staticwebassets\\images\\icons\\product-ig.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\product-pp.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\product-pp.svg",
       "PackagePath": "staticwebassets\\images\\icons\\product-pp.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\product-sc.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\product-sc.svg",
       "PackagePath": "staticwebassets\\images\\icons\\product-sc.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\profile.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\profile.svg",
       "PackagePath": "staticwebassets\\images\\icons\\profile.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\recheck.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\recheck.svg",
       "PackagePath": "staticwebassets\\images\\icons\\recheck.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\reports.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\reports.svg",
       "PackagePath": "staticwebassets\\images\\icons\\reports.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\settings.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\settings.svg",
       "PackagePath": "staticwebassets\\images\\icons\\settings.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\support-account.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\support-account.svg",
       "PackagePath": "staticwebassets\\images\\icons\\support-account.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\support-general.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\support-general.svg",
       "PackagePath": "staticwebassets\\images\\icons\\support-general.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\support-payment.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\support-payment.svg",
       "PackagePath": "staticwebassets\\images\\icons\\support-payment.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\support-secure.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\support-secure.svg",
       "PackagePath": "staticwebassets\\images\\icons\\support-secure.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\support.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\support.svg",
       "PackagePath": "staticwebassets\\images\\icons\\support.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\sync.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\sync.svg",
       "PackagePath": "staticwebassets\\images\\icons\\sync.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\zip.svg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\icons\\zip.svg",
       "PackagePath": "staticwebassets\\images\\icons\\zip.svg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\index.html",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\index.html",
       "PackagePath": "staticwebassets\\images\\index.html"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\lms\\theme\\a.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\lms\\theme\\a.jpg",
       "PackagePath": "staticwebassets\\images\\lms\\theme\\a.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\lms\\theme\\b.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\lms\\theme\\b.jpg",
       "PackagePath": "staticwebassets\\images\\lms\\theme\\b.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\lms\\theme\\c.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\lms\\theme\\c.jpg",
       "PackagePath": "staticwebassets\\images\\lms\\theme\\c.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\lms\\theme\\d.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\lms\\theme\\d.jpg",
       "PackagePath": "staticwebassets\\images\\lms\\theme\\d.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\lms\\theme\\e.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\lms\\theme\\e.jpg",
       "PackagePath": "staticwebassets\\images\\lms\\theme\\e.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\lms\\theme\\f.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\lms\\theme\\f.jpg",
       "PackagePath": "staticwebassets\\images\\lms\\theme\\f.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\logo-dark-small.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\logo-dark-small.png",
       "PackagePath": "staticwebassets\\images\\logo-dark-small.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\logo-dark-small2x.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\logo-dark-small2x.png",
       "PackagePath": "staticwebassets\\images\\logo-dark-small2x.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\logo-dark.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\logo-dark.png",
       "PackagePath": "staticwebassets\\images\\logo-dark.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\logo-dark2x.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\logo-dark2x.png",
       "PackagePath": "staticwebassets\\images\\logo-dark2x.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\logo-small.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\logo-small.png",
       "PackagePath": "staticwebassets\\images\\logo-small.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\logo-small2x.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\logo-small2x.png",
       "PackagePath": "staticwebassets\\images\\logo-small2x.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\logo.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\logo2x.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\logo2x.png",
       "PackagePath": "staticwebassets\\images\\logo2x.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\a.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\a.png",
       "PackagePath": "staticwebassets\\images\\product\\a.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\b.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\b.png",
       "PackagePath": "staticwebassets\\images\\product\\b.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\c.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\c.png",
       "PackagePath": "staticwebassets\\images\\product\\c.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\d.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\d.png",
       "PackagePath": "staticwebassets\\images\\product\\d.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\e.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\e.png",
       "PackagePath": "staticwebassets\\images\\product\\e.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\f.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\f.png",
       "PackagePath": "staticwebassets\\images\\product\\f.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\g.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\g.png",
       "PackagePath": "staticwebassets\\images\\product\\g.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\h.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\h.png",
       "PackagePath": "staticwebassets\\images\\product\\h.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\i.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\i.png",
       "PackagePath": "staticwebassets\\images\\product\\i.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\j.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\j.png",
       "PackagePath": "staticwebassets\\images\\product\\j.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\lg-a.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\lg-a.jpg",
       "PackagePath": "staticwebassets\\images\\product\\lg-a.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\lg-b.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\lg-b.jpg",
       "PackagePath": "staticwebassets\\images\\product\\lg-b.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\lg-c.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\lg-c.jpg",
       "PackagePath": "staticwebassets\\images\\product\\lg-c.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\lg-d.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\lg-d.jpg",
       "PackagePath": "staticwebassets\\images\\product\\lg-d.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\lg-e.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\lg-e.jpg",
       "PackagePath": "staticwebassets\\images\\product\\lg-e.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\lg-f.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\lg-f.jpg",
       "PackagePath": "staticwebassets\\images\\product\\lg-f.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\lg-g.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\lg-g.jpg",
       "PackagePath": "staticwebassets\\images\\product\\lg-g.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\lg-h.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\lg-h.jpg",
       "PackagePath": "staticwebassets\\images\\product\\lg-h.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\video-a.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\product\\video-a.jpg",
       "PackagePath": "staticwebassets\\images\\product\\video-a.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\promo-a.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\promo-a.png",
       "PackagePath": "staticwebassets\\images\\slides\\promo-a.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\promo-a2x.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\promo-a2x.png",
       "PackagePath": "staticwebassets\\images\\slides\\promo-a2x.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\promo-b.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\promo-b.png",
       "PackagePath": "staticwebassets\\images\\slides\\promo-b.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\promo-b2x.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\promo-b2x.png",
       "PackagePath": "staticwebassets\\images\\slides\\promo-b2x.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\promo-c.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\promo-c.png",
       "PackagePath": "staticwebassets\\images\\slides\\promo-c.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\promo-c2x.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\promo-c2x.png",
       "PackagePath": "staticwebassets\\images\\slides\\promo-c2x.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\slide-a.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\slide-a.jpg",
       "PackagePath": "staticwebassets\\images\\slides\\slide-a.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\slide-b.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\slide-b.jpg",
       "PackagePath": "staticwebassets\\images\\slides\\slide-b.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\slide-c.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\slides\\slide-c.jpg",
       "PackagePath": "staticwebassets\\images\\slides\\slide-c.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\socials\\facebook.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\socials\\facebook.png",
       "PackagePath": "staticwebassets\\images\\socials\\facebook.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\socials\\medium.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\socials\\medium.png",
       "PackagePath": "staticwebassets\\images\\socials\\medium.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\socials\\twitter.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\socials\\twitter.png",
       "PackagePath": "staticwebassets\\images\\socials\\twitter.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\socials\\youtube.png",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\socials\\youtube.png",
       "PackagePath": "staticwebassets\\images\\socials\\youtube.png"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\stock\\a.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\stock\\a.jpg",
       "PackagePath": "staticwebassets\\images\\stock\\a.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\stock\\b.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\stock\\b.jpg",
       "PackagePath": "staticwebassets\\images\\stock\\b.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\stock\\c.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\stock\\c.jpg",
       "PackagePath": "staticwebassets\\images\\stock\\c.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\stock\\d.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\stock\\d.jpg",
       "PackagePath": "staticwebassets\\images\\stock\\d.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\stock\\e.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\stock\\e.jpg",
       "PackagePath": "staticwebassets\\images\\stock\\e.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\stock\\f.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\stock\\f.jpg",
       "PackagePath": "staticwebassets\\images\\stock\\f.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\stock\\g.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\stock\\g.jpg",
       "PackagePath": "staticwebassets\\images\\stock\\g.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\stock\\h.jpg",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\images\\stock\\h.jpg",
       "PackagePath": "staticwebassets\\images\\stock\\h.jpg"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\apps\\calendar.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\apps\\calendar.js",
       "PackagePath": "staticwebassets\\js\\apps\\calendar.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\apps\\chats.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\apps\\chats.js",
       "PackagePath": "staticwebassets\\js\\apps\\chats.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\apps\\file-manager.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\apps\\file-manager.js",
       "PackagePath": "staticwebassets\\js\\apps\\file-manager.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\apps\\inbox.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\apps\\inbox.js",
       "PackagePath": "staticwebassets\\js\\apps\\inbox.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\apps\\kanban.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\apps\\kanban.js",
       "PackagePath": "staticwebassets\\js\\apps\\kanban.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\apps\\messages.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\apps\\messages.js",
       "PackagePath": "staticwebassets\\js\\apps\\messages.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\bundle.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\bundle.js",
       "PackagePath": "staticwebassets\\js\\bundle.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\charts\\chart-analytics.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\charts\\chart-analytics.js",
       "PackagePath": "staticwebassets\\js\\charts\\chart-analytics.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\charts\\chart-ecommerce.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\charts\\chart-ecommerce.js",
       "PackagePath": "staticwebassets\\js\\charts\\chart-ecommerce.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\charts\\chart-lms.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\charts\\chart-lms.js",
       "PackagePath": "staticwebassets\\js\\charts\\chart-lms.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\charts\\chart-sales.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\charts\\chart-sales.js",
       "PackagePath": "staticwebassets\\js\\charts\\chart-sales.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\charts\\chart-widgets.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\charts\\chart-widgets.js",
       "PackagePath": "staticwebassets\\js\\charts\\chart-widgets.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\custom\\Login.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\custom\\Login.js",
       "PackagePath": "staticwebassets\\js\\custom\\Login.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\editors.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\editors.js",
       "PackagePath": "staticwebassets\\js\\editors.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\example-chart.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\example-chart.js",
       "PackagePath": "staticwebassets\\js\\example-chart.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\example-dragula.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\example-dragula.js",
       "PackagePath": "staticwebassets\\js\\example-dragula.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\example-listbox.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\example-listbox.js",
       "PackagePath": "staticwebassets\\js\\example-listbox.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\example-map.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\example-map.js",
       "PackagePath": "staticwebassets\\js\\example-map.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\example-sweetalert.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\example-sweetalert.js",
       "PackagePath": "staticwebassets\\js\\example-sweetalert.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\example-toastr.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\example-toastr.js",
       "PackagePath": "staticwebassets\\js\\example-toastr.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\example-tree.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\example-tree.js",
       "PackagePath": "staticwebassets\\js\\example-tree.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\jQuery.min.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\jQuery.min.js",
       "PackagePath": "staticwebassets\\js\\jQuery.min.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\datatable-btns.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\datatable-btns.js",
       "PackagePath": "staticwebassets\\js\\libs\\datatable-btns.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\dragula.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\dragula.js",
       "PackagePath": "staticwebassets\\js\\libs\\dragula.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\dual-listbox.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\dual-listbox.js",
       "PackagePath": "staticwebassets\\js\\libs\\dual-listbox.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\editors\\quill.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\editors\\quill.js",
       "PackagePath": "staticwebassets\\js\\libs\\editors\\quill.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\editors\\skins\\content\\default\\content.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\editors\\skins\\content\\default\\content.css",
       "PackagePath": "staticwebassets\\js\\libs\\editors\\skins\\content\\default\\content.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\editors\\summernote.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\editors\\summernote.js",
       "PackagePath": "staticwebassets\\js\\libs\\editors\\summernote.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\editors\\tinymce.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\editors\\tinymce.js",
       "PackagePath": "staticwebassets\\js\\libs\\editors\\tinymce.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\fullcalendar.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\fullcalendar.js",
       "PackagePath": "staticwebassets\\js\\libs\\fullcalendar.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\jkanban.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\jkanban.js",
       "PackagePath": "staticwebassets\\js\\libs\\jkanban.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\jqvmap.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\jqvmap.js",
       "PackagePath": "staticwebassets\\js\\libs\\jqvmap.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\jstree.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\jstree.js",
       "PackagePath": "staticwebassets\\js\\libs\\jstree.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\tagify.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\libs\\tagify.js",
       "PackagePath": "staticwebassets\\js\\libs\\tagify.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\scripts.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\scripts.js",
       "PackagePath": "staticwebassets\\js\\scripts.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\site.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jquery-steps\\jquery.steps.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jquery-steps\\jquery.steps.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jquery-steps\\jquery.steps.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jquery-steps\\jquery.steps.min.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jquery-steps\\jquery.steps.min.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jquery-steps\\jquery.steps.min.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\jquery.vmap.min.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\jquery.vmap.min.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\jquery.vmap.min.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.africa.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.africa.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.africa.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.asia.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.asia.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.asia.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.australia.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.australia.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.australia.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.europe.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.europe.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.europe.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.algeria.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.algeria.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.algeria.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.argentina.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.argentina.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.argentina.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.brazil.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.brazil.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.brazil.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.canada.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.canada.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.canada.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.europe.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.europe.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.europe.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.france.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.france.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.france.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.germany.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.germany.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.germany.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.greece.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.greece.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.greece.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.iran.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.iran.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.iran.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.iraq.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.iraq.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.iraq.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.russia.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.russia.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.russia.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.tunisia.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.tunisia.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.tunisia.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.turkey.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.turkey.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.turkey.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.usa.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.usa.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.usa.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.world.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\jqvmap\\maps\\jquery.vmap.world.js",
       "PackagePath": "staticwebassets\\js\\vendors\\jqvmap\\maps\\jquery.vmap.world.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\knob\\jquery.knob.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\knob\\jquery.knob.js",
       "PackagePath": "staticwebassets\\js\\vendors\\knob\\jquery.knob.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\knob\\jquery.knob.min.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\knob\\jquery.knob.min.js",
       "PackagePath": "staticwebassets\\js\\vendors\\knob\\jquery.knob.min.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\nioapp\\nioapp.min.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\nioapp\\nioapp.min.js",
       "PackagePath": "staticwebassets\\js\\vendors\\nioapp\\nioapp.min.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\prettify.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\js\\vendors\\prettify.js",
       "PackagePath": "staticwebassets\\js\\vendors\\prettify.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\NIK\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\GitUrbanAutoWeb\\UrbanAutoWeb\\UrbanAutoWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

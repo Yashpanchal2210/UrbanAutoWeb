@@ -17,71 +17,79 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UrbanAutoWeb
 build_property.RootNamespace = UrbanAutoWeb
-build_property.ProjectDir = E:\NIK\UrbanAutoWeb\UrbanAutoWeb\
+build_property.ProjectDir = D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\NIK\UrbanAutoWeb\UrbanAutoWeb
+build_property.MSBuildProjectDirectory = D:\GitUrbanAutoWeb\UrbanAutoWeb\UrbanAutoWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/NIK/UrbanAutoWeb/UrbanAutoWeb/Areas/Admin/Views/Shared/Error.cshtml]
+[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Areas/Admin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NIK/UrbanAutoWeb/UrbanAutoWeb/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NIK/UrbanAutoWeb/UrbanAutoWeb/Areas/Admin/Views/_ViewImports.cshtml]
+[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NIK/UrbanAutoWeb/UrbanAutoWeb/Areas/Admin/Views/_ViewStart.cshtml]
+[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NIK/UrbanAutoWeb/UrbanAutoWeb/Views/Authentication/Login.cshtml]
+[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Views/Authentication/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NIK/UrbanAutoWeb/UrbanAutoWeb/Views/Home/Index.cshtml]
+[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NIK/UrbanAutoWeb/UrbanAutoWeb/Views/Home/Privacy.cshtml]
+[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NIK/UrbanAutoWeb/UrbanAutoWeb/Views/MainScreen/Home.cshtml]
+[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Views/MainScreen/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblNjcmVlblxIb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NIK/UrbanAutoWeb/UrbanAutoWeb/Views/Shared/Error.cshtml]
+[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NIK/UrbanAutoWeb/UrbanAutoWeb/Views/Shared/_LayoutLogin.cshtml]
+[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Views/Shared/_LayoutLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NIK/UrbanAutoWeb/UrbanAutoWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Views/Shared/_LayoutWeb.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRXZWIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NIK/UrbanAutoWeb/UrbanAutoWeb/Views/_ViewImports.cshtml]
+[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Views/WebPage/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViUGFnZVxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NIK/UrbanAutoWeb/UrbanAutoWeb/Views/_ViewStart.cshtml]
+[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NIK/UrbanAutoWeb/UrbanAutoWeb/Areas/Admin/Views/Shared/_Layout.cshtml]
+[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-svz4kifj7v
 
-[E:/NIK/UrbanAutoWeb/UrbanAutoWeb/Views/Shared/_Layout.cshtml]
+[D:/GitUrbanAutoWeb/UrbanAutoWeb/UrbanAutoWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lukrwzxyve
