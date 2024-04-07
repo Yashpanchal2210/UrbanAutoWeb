@@ -1,7 +1,8 @@
-﻿@model UrbanAutoWeb.Service.Models.LoginViewModel
+﻿@model UrbanAutoWeb.Service.Models.SuperAdminViewModel
 @{
     ViewData["Title"] = "Login";
     Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+    string errorMessage = Model.ErrorMsg;
 }
 @{
     //toastr Msg
@@ -62,7 +63,12 @@
                         <span class="clsErrorMsg text-danger" id="ErrorPassword"></span>
                     </div>
                 </div>
-
+                @if (!string.IsNullOrEmpty(errorMessage))
+                {
+                    <div class="text-center mb-3">
+                        <h5 class="mb-0 text-danger">@errorMessage</h5>
+                    </div>
+                }
                 <!-- .form-group -->
                 <div class="form-group">
                     <button class="btn btn-lg btn-primary btn-block" id="btnSubmit">Login</button>

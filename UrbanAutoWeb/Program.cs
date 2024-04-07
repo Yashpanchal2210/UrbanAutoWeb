@@ -3,6 +3,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using UrbanAutoWeb;
 using UrbanAutoWeb.Infrastructure;
+using UrbanAutoWeb.Service.Models;
+using UrbanAutoWeb.Service.Service.SuperAdmin;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,8 +12,10 @@ var connetionString = builder.Configuration.GetConnectionString("dbConn");
 builder.Services.AddDbContext<UrbanAutoMasterContext>(options => options.UseSqlServer(connetionString));
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddAutoMapper(typeof(Program));
+builder.Services.AddScoped<ISuperAdminRepository, SuperAdminRepository>();
 builder.Services.AddScoped<IMapper, Mapper>();
 builder.Services.TryAddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddControllersWithViews().AddCookieTempDataProvider();
 
@@ -52,5 +56,15 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=WebPage}/{action=Home}/{id?}");
+
+app.MapAreaControllerRoute(
+    name: "Index",
+    areaName: "Admin",
+    pattern: "Admin/{controller=AdminHome}/{action=Index}");
+
+app.MapAreaControllerRoute(
+    name: "Login",
+    areaName: "Admin",
+    pattern: "Admin/{controller=AdminAuth}/{action=Login}");
 
 app.Run();

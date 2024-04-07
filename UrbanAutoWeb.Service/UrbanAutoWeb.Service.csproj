@@ -24,10 +24,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Service\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\UrbanAutoWeb.Data\UrbanAutoWeb.Data.csproj" />
   </ItemGroup>
 
