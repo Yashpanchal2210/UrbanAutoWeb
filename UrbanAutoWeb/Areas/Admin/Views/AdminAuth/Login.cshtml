@@ -17,7 +17,7 @@
 
 <div class="nk-main ">
     <!-- wrap s -->
-    @using (Html.BeginForm("Login", "AdminAuth", FormMethod.Post, new { id = "Validateform", area = "Admin" }))
+    @using (Html.BeginForm(new { area = "Admin", controller = "AdminAuth", action = "Login", id = "Validateform" }))
     {
         <div class="nk-wrap nk-wrap-nosidebar">
             <!-- content s -->
